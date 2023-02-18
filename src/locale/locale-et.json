@@ -1,0 +1,66 @@
+{
+    "name": "Õmblusateljee 'TaVi'",
+    "page": {
+        "main": { "name": "Pealeht", "description": "Igasuguse keerukuse tasega riiete õmblemine ja parandus, nahast ja karusnahast riiete parandus Narvas, kohaletoimetamise võimalus üle terve Eesti." },
+        "gallery": { "name": "Galerii", "description": "Igasuguse keerukuse tasega riiete õmblemine ja parandus, nahast ja karusnahast riiete parandus Narvas, kohaletoimetamise võimalus üle terve Eesti." },
+        "prices": { "name": "Hinnad", "description": "Igasuguse keerukuse tasega riiete õmblemine ja parandus, nahast ja karusnahast riiete parandus Narvas, kohaletoimetamise võimalus üle terve Eesti." },
+        "contacts": { "name": "Kontaktid", "description": "Igasuguse keerukuse tasega riiete õmblemine ja parandus, nahast ja karusnahast riiete parandus Narvas, kohaletoimetamise võimalus üle terve Eesti." }
+    },
+    "headers": {
+        "contacts": "Kontaktid",
+        "gallery": "Minu tööd",
+        "prices": "Hinnad"
+    },
+    "mainPage": {
+        "mainImageHeader": "Igasuguse keerukuse tasega riiete õmblemine ja parandus,\n nahast ja karusnahast riiete parandus Narvas,\n kohaletoimetamise võimalus üle terve Eesti.",
+        "weOffer": {
+            "header": "Meie teenused",
+            "block1": {
+                "header": "Riiete õmblus",
+                "text": "Ülerõivaste, kerge kleitide, trikotaaž-, nahk- ja karusnahatoodete õmblemine.\n Konsultatsioon kangavaliku ja sobiva stiili osas.\n Individuaalne lähenemine igale kliendile."
+            },
+            "block2": {
+                "header": "Riiete parandus",
+                "text": "Igat tüüpi ja igasuguse keerukuse tasega rõivaste, ega ka mitmesuguste muude toodete ja katete parandus.\n Lukkude ja nööpide vahetamine, lühendamine, lappimine, teksapükste nõelumine jne.\n Toodete kohandamine vastavalt kliendi figuurile."
+            },
+            "buttonText": "Meie hinnad"
+        },
+        "chooseUs": {
+            "header": "Valige meid",
+            "block1": {
+                "title": "Kvaliteetne ja kiire tellimuste täitmine",
+                "description": "Teeme kõik selleks, et klient jääks tehtud tööga rahule"
+            },
+            "block2": {
+                "title": "Suur töökogemus",
+                "description": "30 aastat tööd valdkonnas ja erialast haridust"
+            },
+            "block3": {
+                "title": "Kvaliteedi tagamine",
+                "description": "Tagan tööde kvaliteetse teostamise kliendiga kokkulepitud tähtaegadel"
+            }
+        },
+        "contactUs": {
+            "title": "Oma ala meister",
+            "description": "Aastatepikkune kogemus moetööstuses võimaldab mul täpselt aru saada, mida klient täpselt soovib ja mis on tema figuuritüübile parim. Oma riiete parandamise kogemusest võin öelda, et mõnikord on parem vana lemmik asi korda teha ja kinkida talle uus elu, kui osta uue.",
+            "button": "Meiega ühendust saada"
+        }
+    },
+    "gallery": {
+        "emailForm": {
+            "labels": {
+                "name": "Teie nimi",
+                "email": "Teie email",
+                "telephone": "Teie telefon",
+                "description": "Tellimuse kirjeldus"
+            },
+            "header": "Kirjuta meile",
+            "sendBtn": "Saada",
+            "emailFormSuccess": "Tänan kirja eest!",
+            "emailFormFailure": "Tekkis viga. Proovige palun veel kord!"
+        }
+    },
+    "footerLeaveReview": "Jäta meile tagasisidet",
+    "footerAddress": "Albert-August Tiimani 14, 21003 Narva, Eesti",
+    "priceRange": "alates {from} kuni {to}"
+}

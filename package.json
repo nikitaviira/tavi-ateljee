@@ -1,0 +1,46 @@
+{
+  "name": "mom-app",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve --mode development",
+    "build": "vue-cli-service build --mode production",
+    "lint": "vue-cli-service lint"
+  },
+  "dependencies": {
+    "@babel/plugin-proposal-nullish-coalescing-operator": "^7.13.8",
+    "@babel/plugin-proposal-optional-chaining": "^7.13.12",
+    "axios": "^0.24.0",
+    "core-js": "3.11.0",
+    "sass": "1.32.11",
+    "sass-loader": "10.1.1",
+    "vue": "^2.6.12",
+    "vue-class-component": "7.2.6",
+    "vue-i18n": "8.24.3",
+    "vue-property-decorator": "^9.1.2",
+    "vue-router": "^3.5.1",
+    "vuetify": "2.5.10",
+    "vuetify-loader": "1.7.2",
+    "vue-meta": "^2.4.0",
+    "smoothscroll-polyfill": "0.4.4"
+  },
+  "devDependencies": {
+    "@types/smoothscroll-polyfill": "^0.3.1",
+    "@typescript-eslint/eslint-plugin": "^4.22.0",
+    "@typescript-eslint/parser": "^4.22.0",
+    "@vue/cli-plugin-babel": "^4.5.12",
+    "@vue/cli-plugin-eslint": "^4.5.12",
+    "@vue/cli-plugin-router": "^4.5.12",
+    "@vue/cli-plugin-typescript": "^4.5.12",
+    "@vue/cli-service": "^4.5.12",
+    "@vue/eslint-config-prettier": "^6.0.0",
+    "@vue/eslint-config-typescript": "^7.0.0",
+    "eslint": "^7.25.0",
+    "eslint-plugin-prettier": "^3.4.0",
+    "eslint-config-vuetify": "^0.6.1",
+    "eslint-plugin-vue": "^7.9.0",
+    "prettier": "^2.2.1",
+    "typescript": "^4.2.4",
+    "vue-template-compiler": "^2.6.12"
+  }
+}

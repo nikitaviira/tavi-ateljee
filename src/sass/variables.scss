@@ -1,0 +1,135 @@
+@import '~vuetify/src/styles/styles.sass';
+@import 'colors.scss';
+
+#app {
+  font-family: $main-font;
+
+  .text-h2 {
+    font-family: $secondary-font;
+    font-size: 4rem !important;
+  }
+
+  @media #{map-get($display-breakpoints, "xs-only")} {
+    .text-h2 {
+      font-size: 2.5rem !important;
+    }
+  }
+
+  .v-main {
+    padding: 130px 0 0 !important;
+
+    @media #{map-get($display-breakpoints, "xs-only")}, screen and (max-height: 550px) {
+      padding: 56px 0 0 !important;
+    }
+  }
+}
+
+.blurred-img > .v-image__image {
+  filter: blur(1px);
+  transform: scale(1.01);
+}
+
+.v-toolbar__content {
+  height: 80px !important;
+
+  @media #{map-get($display-breakpoints, "xs-only")}, screen and (max-height: 550px) {
+    height: 56px !important;
+  }
+}
+
+// Animations
+
+.slideRightFade {
+  left: -200px;
+  -webkit-animation: slideRightFade 0.4s ease-out forwards;
+  animation: slideRightFade 0.4s ease-out forwards;
+}
+
+@-webkit-keyframes slideRightFade {
+  100% { left: 0; opacity: 1 }
+}
+
+@keyframes slideRightFade {
+  100% { left: 0; opacity: 1 }
+}
+
+.slideTopFade {
+  top: 200px;
+  -webkit-animation: slideTopFade 0.4s ease-out forwards;
+  animation: slideTopFade 0.4s ease-out forwards;
+}
+
+@-webkit-keyframes slideTopFade {
+  100% { top: 0; opacity: 1 }
+}
+
+@keyframes slideTopFade {
+  100% { top: 0; opacity: 1 }
+}
+
+.slideLeftFade {
+  left: 200px;
+  -webkit-animation: slideLeftFade 0.4s ease-out forwards;
+  animation: slideLeftFade 0.4s ease-out forwards;
+}
+
+@-webkit-keyframes slideLeftFade {
+  100% { left: 0; opacity: 1 }
+}
+
+@keyframes slideLeftFade {
+  100% { left: 0; opacity: 1 }
+}
+
+// Scroll-down button
+.scroll-down {
+  height: 100px;
+  left: 50%;
+  margin-left: -10px;
+  width: 30px;
+  position: absolute;
+  bottom: 40%;
+  border-radius: 50px;
+  cursor: pointer;
+}
+.scroll-down::before,
+.scroll-down::after {
+  content: "";
+  position: absolute;
+  top: 20%;
+  left: 50%;
+  height: 50px;
+  width: 50px;
+  transform: translate(-50%, -100%) rotate(45deg);
+  border: 5px solid white;
+  border-top: transparent;
+  border-left: transparent;
+  animation: scroll-down 1s ease-in-out infinite;
+
+  @media #{map-get($display-breakpoints, "sm-and-up")} and (min-height: 550px) {
+    height: 70px;
+    width: 70px;
+  }
+}
+.scroll-down::before {
+  top: 10%;
+  animation-delay: 0.3s;
+  /* animation: scroll-down 1s ease-in-out infinite; */
+}
+
+@keyframes scroll-down {
+  0% {
+    /* top:20%; */
+    opacity: 0;
+  }
+  30% {
+    opacity: 1;
+  }
+  60% {
+    opacity: 1;
+  }
+  100% {
+    top: 90%;
+    opacity: 0;
+  }
+}

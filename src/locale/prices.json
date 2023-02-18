@@ -1,0 +1,724 @@
+{
+  "ru": {
+    "Ремонт одежды": [
+      {
+        "name": "Пальто",
+        "items": [
+          {
+            "name": "Укорачивание",
+            "priceFrom": 13,
+            "priceTo": 18
+          },
+          {
+            "name": "Укорачивание летнего пальто",
+            "priceFrom": 10,
+            "priceTo": 13
+          },
+          {
+            "name": "Укорачивание рукавов",
+            "priceFrom": 10,
+            "priceTo": 15
+          },
+          {
+            "name": "Замена подкладки (плюс стоимость материала)",
+            "priceFrom": 25,
+            "priceTo": 28
+          },
+          {
+            "name": "Ушить",
+            "priceFrom": 18,
+            "priceTo": 28
+          },
+          {
+            "name": "Подгонка плечей",
+            "priceFrom": 15,
+            "priceTo": 22
+          }
+        ]
+      },
+      {
+        "name": "Брюки",
+        "items": [
+          {
+            "name": "Укоротить",
+            "priceFrom": 8,
+            "priceTo": 8
+          },
+          {
+            "name": "Ушить",
+            "priceFrom": 12,
+            "priceTo": 16
+          }
+        ]
+      },
+      {
+        "name": "Джинсы",
+        "items": [
+          {
+            "name": "Укоротить",
+            "priceFrom": 8,
+            "priceTo": 8
+          },
+          {
+            "name": "Укоротить с оригинальным кантом",
+            "priceFrom": 9,
+            "priceTo": 9
+          },
+          {
+            "name": "Ушить сзади по бокам",
+            "priceFrom": 10,
+            "priceTo": 12
+          },
+          {
+            "name": "Заштуковать дырки",
+            "priceFrom": 8,
+            "priceTo": 12
+          }
+        ]
+      },
+      {
+        "name": "Пиджак",
+        "items": [
+          {
+            "name": "Укоротить рукава",
+            "priceFrom": 12,
+            "priceTo": 14
+          },
+          {
+            "name": "Укоротить рукава с разрезом, шлицей",
+            "priceFrom": 10,
+            "priceTo": 16
+          },
+          {
+            "name": "Укоротить низ",
+            "priceFrom": 13,
+            "priceTo": 16
+          },
+          {
+            "name": "Укоротить",
+            "priceFrom": 25,
+            "priceTo": 45
+          },
+          {
+            "name": "Замена подкладки (плюс стоимость материала)",
+            "priceFrom": 25,
+            "priceTo": 35
+          },
+          {
+            "name": "Вшить молнию в карман",
+            "priceFrom": 15,
+            "priceTo": 20
+          },
+          {
+            "name": "Подгонка плечей",
+            "priceFrom": 18,
+            "priceTo": 20
+          }
+        ]
+      },
+      {
+        "name": "Платье",
+        "items": [
+          {
+            "name": "Ушить",
+            "priceFrom": 15,
+            "priceTo": 25
+          },
+          {
+            "name": "Укоротить",
+            "priceFrom": 12,
+            "priceTo": 18
+          },
+          {
+            "name": "Коррекция широкого низа",
+            "priceFrom": 12,
+            "priceTo": 17
+          },
+          {
+            "name": "Незначительные правки",
+            "priceFrom": 8,
+            "priceTo": 8
+          }
+        ]
+      },
+      {
+        "name": "Юбка",
+        "items": [
+          {
+            "name": "Ушить",
+            "priceFrom": 12,
+            "priceTo": 15
+          },
+          {
+            "name": "Укоротить",
+            "priceFrom": 10,
+            "priceTo": 12
+          },
+          {
+            "name": "С разрезом укоротить",
+            "priceFrom": 11,
+            "priceTo": 14
+          }
+        ]
+      },
+      {
+        "name": "Кожаные изделия",
+        "items": [
+          {
+            "name": "Укорачивание рукавов",
+            "priceFrom": 12,
+            "priceTo": 18
+          },
+          {
+            "name": "С разрезом, пуговицами",
+            "priceFrom": 18,
+            "priceTo": 22
+          },
+          {
+            "name": "Ушить бока",
+            "priceFrom": 18,
+            "priceTo": 22
+          },
+          {
+            "name": "Ушить на спине",
+            "priceFrom": 18,
+            "priceTo": 18
+          },
+          {
+            "name": "Замена воротника",
+            "priceFrom": 18,
+            "priceTo": 27
+          },
+          {
+            "name": "Замена подкладки (плюс стоимость материала)",
+            "priceFrom": 28,
+            "priceTo": 38
+          },
+          {
+            "name": "Подгонка плечей",
+            "priceFrom": 12,
+            "priceTo": 18
+          },
+          {
+            "name": "Вставить заплатки",
+            "priceFrom": 15,
+            "priceTo": 15
+          }
+        ]
+      },
+      {
+        "name": "Меховые изделия",
+        "items": [
+          {
+            "name": "Ремонт головного убора",
+            "priceFrom": 20,
+            "priceTo": 25
+          },
+          {
+            "name": "Пошив воротника",
+            "priceFrom": 35,
+            "priceTo": 40
+          },
+          {
+            "name": "Ремонт воротника",
+            "priceFrom": 25,
+            "priceTo": 35
+          },
+          {
+            "name": "Рукава укоротить",
+            "priceFrom": 28,
+            "priceTo": 32
+          },
+          {
+            "name": "Рукава удлинить",
+            "priceFrom": 38,
+            "priceTo": 40
+          },
+          {
+            "name": "Ушить шубу по бокам",
+            "priceFrom": 40,
+            "priceTo": 46
+          },
+          {
+            "name": "Расширить шубу по бокам",
+            "priceFrom": 45,
+            "priceTo": 55
+          },
+          {
+            "name": "Укоротить низ шубы",
+            "priceFrom": 30,
+            "priceTo": 36
+          },
+          {
+            "name": "Удлинить низ шубы",
+            "priceFrom": 45,
+            "priceTo": 55
+          },
+          {
+            "name": "Реставрация борта",
+            "priceFrom": 35,
+            "priceTo": 50
+          },
+          {
+            "name": "Замена крючка",
+            "priceFrom": 6,
+            "priceTo": 6
+          }
+        ]
+      },
+      {
+        "name": "Замена молнии",
+        "items": [
+          {
+            "name": "Текстильная куртка",
+            "priceFrom": 16,
+            "priceTo": 25
+          },
+          {
+            "name": "Пуховик",
+            "priceFrom": 24,
+            "priceTo": 28
+          },
+          {
+            "name": "Куртка без подкладки",
+            "priceFrom": 15,
+            "priceTo": 17
+          },
+          {
+            "name": "Кожаная куртка",
+            "priceFrom": 28,
+            "priceTo": 35
+          },
+          {
+            "name": "Куртка из искусственной кожи",
+            "priceFrom": 20,
+            "priceTo": 25
+          },
+          {
+            "name": "Спортивная кофта (толстовка)",
+            "priceFrom": 15,
+            "priceTo": 20
+          },
+          {
+            "name": "Джинсы",
+            "priceFrom": 8,
+            "priceTo": 8
+          },
+          {
+            "name": "Брюки",
+            "priceFrom": 8,
+            "priceTo": 8
+          },
+          {
+            "name": "Юбка",
+            "priceFrom": 8,
+            "priceTo": 8
+          },
+          {
+            "name": "Низ спортивных брюк",
+            "priceFrom": 8,
+            "priceTo": 8
+          }
+        ]
+      }
+    ],
+    "Индивидуальный пошив": [
+      {
+        "name": "Индивидуальный пошив",
+        "items": [
+          {
+            "name": "Платье",
+            "priceFrom": 65,
+            "priceTo": 140
+          },
+          {
+            "name": "Юбка",
+            "priceFrom": 45,
+            "priceTo": 65
+          },
+          {
+            "name": "Брюки",
+            "priceFrom": 45,
+            "priceTo": 65
+          },
+          {
+            "name": "Пальто",
+            "priceFrom": 100,
+            "priceTo": 180
+          },
+          {
+            "name": "Блузка",
+            "priceFrom": 45,
+            "priceTo": 65
+          },
+          {
+            "name": "Жилет",
+            "priceFrom": 45,
+            "priceTo": 65
+          }
+        ]
+      }
+    ]
+  },
+  "et": {
+    "Riiete parandus": [
+      {
+        "name": "Mantel",
+        "items": [
+          {
+            "name": "Lühemaks tegemine",
+            "priceFrom": 13,
+            "priceTo": 18
+          },
+          {
+            "name": "Suvemantli lühemaks tegemine",
+            "priceFrom": 10,
+            "priceTo": 13
+          },
+          {
+            "name": "Varrukate lühemaks tegemine",
+            "priceFrom": 10,
+            "priceTo": 15
+          },
+          {
+            "name": "Voodri vahetus (koos materjalihinnaga)",
+            "priceFrom": 25,
+            "priceTo": 28
+          },
+          {
+            "name": "Kitsamaks tegemine",
+            "priceFrom": 18,
+            "priceTo": 28
+          },
+          {
+            "name": "Õlade tsooni kohandamine",
+            "priceFrom": 15,
+            "priceTo": 22
+          }
+        ]
+      },
+      {
+        "name": "Püksid",
+        "items": [
+          {
+            "name": "Lühemaks tegemine",
+            "priceFrom": 8,
+            "priceTo": 8
+          },
+          {
+            "name": "Kitsamaks tegemine",
+            "priceFrom": 12,
+            "priceTo": 16
+          }
+        ]
+      },
+      {
+        "name": "Teksapüksid",
+        "items": [
+          {
+            "name": "Lühemaks tegemine",
+            "priceFrom": 8,
+            "priceTo": 8
+          },
+          {
+            "name": "Lühendada jättes originaalkandi",
+            "priceFrom": 9,
+            "priceTo": 9
+          },
+          {
+            "name": "Tagantküljed kitsamaks tegemine",
+            "priceFrom": 10,
+            "priceTo": 12
+          },
+          {
+            "name": "Augud kinni ōmblema",
+            "priceFrom": 8,
+            "priceTo": 12
+          }
+        ]
+      },
+      {
+        "name": "Pintsak",
+        "items": [
+          {
+            "name": "Varrukate lühemaks tegemine",
+            "priceFrom": 12,
+            "priceTo": 14
+          },
+          {
+            "name": "Varrukate (lõhikuga) lühemaks tegemine",
+            "priceFrom": 10,
+            "priceTo": 16
+          },
+          {
+            "name": "Alaosa lühendamine",
+            "priceFrom": 13,
+            "priceTo": 16
+          },
+          {
+            "name": "Lühemaks tegemine",
+            "priceFrom": 25,
+            "priceTo": 45
+          },
+          {
+            "name": "Voodri vahetus (koos materjalihinnaga)",
+            "priceFrom": 25,
+            "priceTo": 35
+          },
+          {
+            "name": "Tasku peale luku panemine",
+            "priceFrom": 15,
+            "priceTo": 20
+          },
+          {
+            "name": "Õlade tsooni kohandamine",
+            "priceFrom": 18,
+            "priceTo": 20
+          }
+        ]
+      },
+      {
+        "name": "Kleit",
+        "items": [
+          {
+            "name": "Kitsamaks tegemine",
+            "priceFrom": 15,
+            "priceTo": 25
+          },
+          {
+            "name": "Lühemaks tegemine",
+            "priceFrom": 12,
+            "priceTo": 18
+          },
+          {
+            "name": "Laia alaosa parandamine",
+            "priceFrom": 12,
+            "priceTo": 17
+          },
+          {
+            "name": "Erinevad väikesed parandused",
+            "priceFrom": 8,
+            "priceTo": 8
+          }
+        ]
+      },
+      {
+        "name": "Seelik",
+        "items": [
+          {
+            "name": "Kitsamaks tegemine",
+            "priceFrom": 12,
+            "priceTo": 15
+          },
+          {
+            "name": "Lühemaks tegemine",
+            "priceFrom": 10,
+            "priceTo": 12
+          },
+          {
+            "name": "Lühemaks tegemine (lõhikuga)",
+            "priceFrom": 11,
+            "priceTo": 14
+          }
+        ]
+      },
+      {
+        "name": "Nahast esemed",
+        "items": [
+          {
+            "name": "Varrukate lühemaks tegemine",
+            "priceFrom": 12,
+            "priceTo": 18
+          },
+          {
+            "name": "Varrukate (lõhikuga, nööpidega) lühemaks tegemine",
+            "priceFrom": 18,
+            "priceTo": 22
+          },
+          {
+            "name": "Küljed kitsamaks tegemine",
+            "priceFrom": 18,
+            "priceTo": 22
+          },
+          {
+            "name": "Tagantpoole kitsamaks tegemine",
+            "priceFrom": 18,
+            "priceTo": 18
+          },
+          {
+            "name": "Krae vahetus",
+            "priceFrom": 18,
+            "priceTo": 27
+          },
+          {
+            "name": "Voodri vahetus (koos materjalihinnaga)",
+            "priceFrom": 28,
+            "priceTo": 38
+          },
+          {
+            "name": "Õlade tsooni kohandamine",
+            "priceFrom": 12,
+            "priceTo": 18
+          },
+          {
+            "name": "Lapi peale panemine",
+            "priceFrom": 15,
+            "priceTo": 15
+          }
+        ]
+      },
+      {
+        "name": "Karusnahast esemed",
+        "items": [
+          {
+            "name": "Mütside parandamine",
+            "priceFrom": 20,
+            "priceTo": 25
+          },
+          {
+            "name": "Kraede õmblemine",
+            "priceFrom": 35,
+            "priceTo": 40
+          },
+          {
+            "name": "Kraede parandamine",
+            "priceFrom": 25,
+            "priceTo": 35
+          },
+          {
+            "name": "Varrukate lühemaks tegemine",
+            "priceFrom": 28,
+            "priceTo": 32
+          },
+          {
+            "name": "Varrukate pikemaks tegemine",
+            "priceFrom": 38,
+            "priceTo": 40
+          },
+          {
+            "name": "Kasuka küljed kitsamaks tegemine",
+            "priceFrom": 40,
+            "priceTo": 46
+          },
+          {
+            "name": "Kasuka küljed laiemaks tegemine",
+            "priceFrom": 45,
+            "priceTo": 55
+          },
+          {
+            "name": "Kasuka alaosa lühendamine",
+            "priceFrom": 30,
+            "priceTo": 36
+          },
+          {
+            "name": "Kasuka alaosa laiendamine",
+            "priceFrom": 45,
+            "priceTo": 55
+          },
+          {
+            "name": "Kasukahõlma parandamine",
+            "priceFrom": 35,
+            "priceTo": 50
+          },
+          {
+            "name": "Haakide vahetamine",
+            "priceFrom": 6,
+            "priceTo": 6
+          }
+        ]
+      },
+      {
+        "name": "Luku vahetus",
+        "items": [
+          {
+            "name": "Tekstiiljope",
+            "priceFrom": 16,
+            "priceTo": 25
+          },
+          {
+            "name": "Sulejope",
+            "priceFrom": 24,
+            "priceTo": 28
+          },
+          {
+            "name": "Voodrita jope",
+            "priceFrom": 15,
+            "priceTo": 17
+          },
+          {
+            "name": "Nahkjope",
+            "priceFrom": 28,
+            "priceTo": 35
+          },
+          {
+            "name": "Kunstnahkjope",
+            "priceFrom": 20,
+            "priceTo": 25
+          },
+          {
+            "name": "Dressipluus",
+            "priceFrom": 15,
+            "priceTo": 20
+          },
+          {
+            "name": "Teksapüksid",
+            "priceFrom": 8,
+            "priceTo": 8
+          },
+          {
+            "name": "Püksid",
+            "priceFrom": 8,
+            "priceTo": 8
+          },
+          {
+            "name": "Seelik",
+            "priceFrom": 8,
+            "priceTo": 8
+          },
+          {
+            "name": "Spordipüksi alaosa",
+            "priceFrom": 8,
+            "priceTo": 8
+          }
+        ]
+      }
+    ],
+    "Individuaalne ōmblemine": [
+      {
+        "name": "Individuaalne ōmblemine",
+        "items": [
+          {
+            "name": "Kleit",
+            "priceFrom": 65,
+            "priceTo": 140
+          },
+          {
+            "name": "Seelik",
+            "priceFrom": 45,
+            "priceTo": 65
+          },
+          {
+            "name": "Püksid",
+            "priceFrom": 45,
+            "priceTo": 65
+          },
+          {
+            "name": "Mantel",
+            "priceFrom": 100,
+            "priceTo": 180
+          },
+          {
+            "name": "Pluus",
+            "priceFrom": 45,
+            "priceTo": 65
+          },
+          {
+            "name": "Vest",
+            "priceFrom": 45,
+            "priceTo": 65
+          }
+        ]
+      }
+    ]
+  }
+}
